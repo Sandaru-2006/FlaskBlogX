@@ -13,3 +13,18 @@ A simple, yet powerful blogging platform built with **Flask**, **SQLAlchemy**, a
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/flaskblogx.git
+   ```
+   
+1. **Navigate to the project directory:**:
+```bash
+cd flaskblogx
+```
+
+1. **Create a virtual environment (optional but recommended):**:
+```bash
+python -m venv .venv
+```
+1. **Install the dependencies:**:
+```bash
+pip install -r requirements.txt
+```
