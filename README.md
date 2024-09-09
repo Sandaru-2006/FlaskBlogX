@@ -7,6 +7,16 @@ A simple, yet powerful blogging platform built with **Flask**, **SQLAlchemy**, a
 - **Flask-WTF** forms with validation for easy data entry 🔐.
 - **SQLite** database for storing your posts 📊.
 - Beautiful, responsive design using **Bootstrap 5** 💻.
+- **Contact Form** with email sending functionality 📧.
+
+### Technologies Used 💻
+- **Flask**: A lightweight web framework for Python.
+- **SQLAlchemy**: SQL toolkit and Object-Relational Mapping (ORM) for Python.
+- **CKEditor**: Rich-text editor for editing blog posts.
+- **Flask-WTF**: Integration of WTForms with Flask for form handling.
+- **Bootstrap 5**: Front-end framework for building responsive designs.
+- **SMTP**: Protocol for sending emails.
+- **SQLite**: Lightweight database for storing blog posts.
 
 ### Getting Started 🛠️
 
