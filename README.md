@@ -8,3 +8,8 @@ A simple, yet powerful blogging platform built with **Flask**, **SQLAlchemy**, a
 - **SQLite** database for storing your posts 📊.
 - Beautiful, responsive design using **Bootstrap 5** 💻.
 
+### Getting Started 🛠️
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/flaskblogx.git
