@@ -22,7 +22,7 @@ A simple, yet powerful blogging platform built with **Flask**, **SQLAlchemy**, a
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/flaskblogx.git
+   git clone https://github.com/Sandaru-2006/flaskblogx.git
    ```
    
 1. **Navigate to the project directory:**:
