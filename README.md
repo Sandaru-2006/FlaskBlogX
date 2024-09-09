@@ -16,15 +16,15 @@ A simple, yet powerful blogging platform built with **Flask**, **SQLAlchemy**, a
    ```
    
 1. **Navigate to the project directory:**:
-```bash
-cd flaskblogx
-```
+   ```bash
+   cd flaskblogx
+   ```
 
 1. **Create a virtual environment (optional but recommended):**:
-```bash
-python -m venv .venv
-```
+   ```bash
+   python -m venv .venv
+   ```
 1. **Install the dependencies:**:
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
